@@ -1,7 +1,7 @@
 name: 'WeBelieve '
 favicon: null
-layout_spectrum: 0.8917727873194963
-typography_spectrum: 0.7512494623661041
+layout_spectrum: 1
+typography_spectrum: 0.49498
 cta:
   domain: null
   bucket: null
