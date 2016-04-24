@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WeBelieve ]]></title>
         <description><![CDATA[WeBelieve ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webelieve/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 03:43:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 03:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webelieve/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21d267eb-903d-4c49-9d02-dde7dd1c4af9.jpg">]]></description>
+            <link>https://thegrid.ai/webelieve/we-create-with-purpose/index.html</link>
+            <guid isPermaLink="false">5aadf238-6105-4b9c-a12b-f562a4b2545c</guid>
+            <pubDate>Sun, 24 Apr 2016 03:46:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7004a85-a526-4bb5-bd36-41e28c09db36.jpg">]]></description>
-            <link>undefinedwe-believe-that-creativity-can-help-with-vision/index.html</link>
+            <link>https://thegrid.ai/webelieve/we-believe-that-creativity-can-help-with-vision/index.html</link>
             <guid isPermaLink="false">0c0718c5-9608-41d3-b3b5-5d2aede32c57</guid>
             <pubDate>Sun, 24 Apr 2016 03:43:33 GMT</pubDate>
         </item>
